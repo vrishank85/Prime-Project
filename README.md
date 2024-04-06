@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+Sure, here's a detailed and ATS-friendly description you can use for your resume:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+### Prime Video Clone Website
 
-In the project directory, you can run:
+**Description:**
 
-### `npm start`
+I developed a fully responsive clone of Prime Video using React JS and Tailwind CSS as part of a personal project. The website mimics the layout and functionality of a popular streaming platform, showcasing my proficiency in front-end development and UI/UX design principles.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Key Features:**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **Dynamic Sections:** Implemented trending, popular, top-rated, and horror sections that can be horizontally scrolled, providing users with a familiar browsing experience.
 
-### `npm test`
+2. **User Authentication:** Integrated user authentication functionality using Firebase, allowing users to sign up, log in, and securely access their personalized accounts.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. **Favorites Management:** Implemented a feature for users to save shows to their favorites list. This functionality enhances user engagement and provides a seamless way for users to track their preferred content.
 
-### `npm run build`
+4. **Account Management:** Developed an accounts section where users can view and manage their saved shows, enhancing the overall user experience and personalization of the platform.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Technologies Used:**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React JS: Utilized the React framework for building reusable UI components and managing state efficiently.
+- Tailwind CSS: Implemented Tailwind CSS for rapid styling and responsive design, ensuring compatibility across various devices and screen sizes.
+- Firebase: Leveraged Firebase for backend services such as user authentication, data storage, and real-time updates, ensuring a secure and reliable platform.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Outcome:**
 
-### `npm run eject`
+The Prime Video clone website demonstrates my skills in front-end development, user experience design, and integration with backend services. By creating a seamless and interactive platform for users to discover, save, and manage their favorite shows, I showcased my ability to conceptualize and implement complex web applications while adhering to best practices and industry standards.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Note:** While the website does not include video streaming capabilities due to project constraints, it showcases my proficiency in front-end development, UI/UX design, and integration with backend services, making it a valuable addition to my portfolio.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
