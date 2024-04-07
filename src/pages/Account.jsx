@@ -6,7 +6,7 @@ const Account = () => {
     <>
     <div className='w-full text-white'>
       <img
-        className='w-full h-[400px] object-cover'
+        className='block sm:w-full h-[400px] object-cover'
         src='https://m.media-amazon.com/images/G/31/AmazonVideo/2019/MLP.jpg'
         alt='/'
       />
